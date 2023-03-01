@@ -5,6 +5,10 @@ main .jumbotron {
     line-height: 32px;
 }
 
+main .jumbotron aside {
+    text-align: center;
+}
+
 main .jumbotron .hello {
    color: white; 
    margin-top: 19px;
