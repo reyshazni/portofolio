@@ -55,6 +55,11 @@ header.navbar-container .nav-list li a:hover {
    
     header.navbar-container .nav-list ul {
       flex-wrap: wrap;
-      column-gap: .5rem;
+      column-gap: 1px;
+    }
+
+    header.navbar-container .logo {
+        margin-top: 10px;
+        margin-bottom: 0px;
     }
 }

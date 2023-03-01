@@ -70,8 +70,8 @@ main .jumbotron .image1 {
 
 @media screen and (max-width: 768px) {
     main .jumbotron .name {
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
         color: white; 
         margin-top: 19px;
         letter-spacing: 2.2px;
