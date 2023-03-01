@@ -68,3 +68,15 @@ main .jumbotron .image1 {
     line-height: 0px;
 }
 
+@media screen and (max-width: 768px) {
+    main .jumbotron .name {
+        padding-left: 10px;
+        padding-right: 10px;
+        color: white; 
+        margin-top: 19px;
+        letter-spacing: 2.2px;
+        font-weight: 800;
+        font-size: 30px;
+        text-align: center;
+     }
+}

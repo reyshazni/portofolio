@@ -57,3 +57,13 @@ main .experience .container .card .list p {
     color: var(--orange);
     text-shadow: 0px 0px 180px var(--orange);
 }
+
+@media screen and (max-width: 768px) {
+    main .experience .container {
+        gap: 30px;
+        margin-top: 27px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}
